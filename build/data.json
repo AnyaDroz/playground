@@ -1,0 +1,38 @@
+[
+    {
+    "src": "https://cdn.britannica.com/74/6774-050-CC41636C/Jorge-Luis-Borges.jpg",
+    "id": 1,
+    "name": "Jorge Luis Borges"
+    },
+    {
+    "src": "https://i.guim.co.uk/img/media/132ffe4015a294916dc1183fffa269b52320a600/17_92_735_919/master/735.jpg?width=700&quality=85&auto=format&fit=max&s=00511d56acb7a8d5cd99b07ed519f739",
+    "id": 2,
+    "name": "David Foster Wallace"
+    },
+    {
+    "src": "https://media.newyorker.com/photos/5d01329dd07242447d2c7444/master/pass/Rushdie-Vonnegut.jpg",
+    "id": 3,
+    "name": "Kurt Vonnegut"
+    },
+    {
+    "src": "https://transgressivefiction.info/wp-content/uploads/2018/08/chuckpalahniuk.jpg",
+    "id": 4,
+    "name": "Chuck Palahniuk"
+    },
+    {
+    "src": "https://m.media-amazon.com/images/M/MV5BOTgxMDczYjgtOTUyNC00OTViLTljZTItZjg0MDMwNTdkYjZiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+    "id": 5,
+    "name": "Mikhail Bulgakov"
+    },
+    {
+    "src": "https://tankmagazine.com/media/519426/096.jpg",
+    "id": 6,
+    "name": "Mieko Kawakami"
+    },
+    {
+    "src": "https://freebooksummary.com/wp-content/uploads/2018/08/Top-10-Books-by-Hermann-Hesse.jpg",
+    "id": 7,
+    "name": "Hermann Hesse"
+    }
+]
+    

@@ -1,0 +1,29 @@
+.card-list {
+    position: relative;
+    max-width: 1440px;
+    flex-wrap: wrap;
+    display: flex;
+    grid-gap: 20px;
+    justify-content: center;
+  }
+
+  img {
+    width: 333px;
+    height: 364px;
+    object-fit: cover;
+  }
+
+  .card-container {
+    position: relative;
+    text-align: center;
+    cursor:url(/Users/anya/Desktop/my-app/src/Images/1024px-Smiley_icon 1.png), auto;
+    transition: 0.1s;
+  }
+
+  .card-container:hover{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    transform: translateY(-10px);
+  } 
+    
+
+  

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e074cf82.css",
+    "main.js": "/static/js/main.666d8916.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Crushed-Regular.ttf": "/static/media/Crushed-Regular.faf934ba9ab3fac0fc4a.ttf",
+    "index.html": "/index.html",
+    "main.e074cf82.css.map": "/static/css/main.e074cf82.css.map",
+    "main.666d8916.js.map": "/static/js/main.666d8916.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e074cf82.css",
+    "static/js/main.666d8916.js"
+  ]
+}
