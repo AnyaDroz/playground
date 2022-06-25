@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="title">Inspirational Authors</h1>
+      <h1 className="title">Authors</h1>
       <SearchBox
         onChangeHandler={onSearchChange}
         placeholder="Search"
